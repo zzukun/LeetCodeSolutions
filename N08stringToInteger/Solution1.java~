@@ -3,7 +3,7 @@ package N08stringToInteger;
 public class Solution1 {
 	public int myAtoi(String str)
 	{
-		// RunTime : 3ms
+		// 3ms
 		//null×Ö·û´®ºÍ¿Õ×Ö·û´®·µ»Ø0
 		if(str==null || str.length() ==0)
 			return 0;

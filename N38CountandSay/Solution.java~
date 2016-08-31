@@ -21,6 +21,7 @@ public class Solution {
         			newResult += (""+cnt+c);
         		}
         	}
+        	//System.out.println(i + "\t" + newResult);
         	result = newResult;
         }
         return result;

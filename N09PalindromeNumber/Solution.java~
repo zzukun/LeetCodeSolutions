@@ -4,7 +4,7 @@ public class Solution {
 	public boolean isPalindrome(int x)
 	{
 		// boolean isPalin = true;
-		// Warning: 负数不算回文！
+		// Attention: 负数不算回文！
 		String str = "" + x;
 		int len = str.length()/2;
 		//System.out.println(len);
